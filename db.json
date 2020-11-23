@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "do your choresaaa",
+      "priority": "BLACK WATCH PLAIDbbb"
+    },
+    {
+      "name": "piano",
+      "priority": "covers",
+      "id": 5
+    },
+    {
+      "name": "we are mostly",
+      "priority": "done",
+      "id": 6
+    },
+    {
+      "name": "mvp",
+      "priority": "time",
+      "id": 7
+    }
+  ]
+}
